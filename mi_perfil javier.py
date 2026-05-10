@@ -1,4 +1,4 @@
-# mi_perfil.py
+# mi_perfil javier.py
 
 print("DEBUG: iniciando programa")
 
